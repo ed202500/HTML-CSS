@@ -1,0 +1,18 @@
+.tb{
+	background-color: skyblue;
+	border: 2px solid black;
+	padding: 15px;
+	text-align: center;
+	margin: 20px 5px;
+	width: 600px;
+}
+#texto1{
+	text-shadow: 5px 5px 10px purple;	
+	font: bold 30px Trebuchet MS;
+	width: 100%;
+}
+#texto2{
+	text-shadow: 5px 5px 10px red;
+	font: bold 40px TrebuchetMS;
+	width: 100%;
+}

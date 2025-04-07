@@ -1,0 +1,22 @@
+.flexbox{
+	display: flex;
+	border: 2px solid blue;
+	background-color: aquamarine;
+	padding: 15px;
+	width: 30%;
+}
+#blanco{
+	padding: 25px;
+	margin: 10px;
+	background-color: white;
+}
+#rosado{
+	padding: 25px;
+	margin: 10px;
+	background-color: pink;
+}
+#celeste{
+	padding: 25px;
+	margin: 10px;
+	background-color: skyblue;
+}
